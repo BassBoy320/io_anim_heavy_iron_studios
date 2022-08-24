@@ -30,7 +30,7 @@ You probably know how to install an Addon in Blender but in case you do not, her
 
 ### Architechture
 
-_IMAGE HERE_
+![diagram of the architechture](https://raw.githubusercontent.com/BassBoy320/io_anim_heavy_iron_studios/main/images/architechture.png)
 
 ### Licensing
 
